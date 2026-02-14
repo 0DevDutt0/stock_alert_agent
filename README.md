@@ -617,7 +617,6 @@ SOFTWARE.
 ## 👤 Contact & Author
 
 **Devdutt S**  
-*Senior AI/ML Engineer | Full-Stack Developer | Python Specialist*
 
 - 💼 **LinkedIn**: [linkedin.com/in/devdutts](https://linkedin.com/in/devdutts)
 - 📧 **Email**: devduttshoji123@gmail.com
